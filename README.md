@@ -9,5 +9,6 @@
 - Criar uma página de assistir
 - Criar uma variação/redesign netflix
 - Fazer cada sessão, filmes, séries, etc
+- Implementar mongoDB
 
 Sinta-se livre para brincar com o código, caso tenha uma ideia legal, PR! ;)
